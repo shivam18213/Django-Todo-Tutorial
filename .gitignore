@@ -1,6 +1,6 @@
 # created by virtualenv automatically
-* bin
-* django
-* include
-* lib
+bin/
+django/
+include/
+lib/
 
